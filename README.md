@@ -1,11 +1,11 @@
 <h1 align="center">Hello, world 👋</h1>
-
-<p align="center">Solving your problems using code. <br><br> I’m a full stack developer passionate about writing lines of code that help solve your issues. I’m always seeking more technical knowledge in the tech field, enhancing my skills with projects and other snippets of code made just for fun.</p>&nbsp;
+![Contador de Visitas](https://profile-counter.glitch.me/)
+<p align="center">I am a full stack developer passionate about writing lines of code that help solve problems. I am always seeking more technical knowledge in the tech field, enhancing my skills with projects and other code snippets made just for fun.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px; margin-top: 50px;">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dev-vinixx&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Dev-vinixx&show_icons=true&theme=radical&layout=compact"/>
- </div>
+</div>
  
  &nbsp;
  &nbsp;
