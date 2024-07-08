@@ -1,5 +1,5 @@
-<h1 align="center">Hello World</h1>
-!Visitors
+<h1 align="center">Hello, world 👋</h1>
+
 <p align="center">Solving your problems using code. <br><br> I’m a full stack developer passionate about writing lines of code that help solve your issues. I’m always seeking more technical knowledge in the tech field, enhancing my skills with projects and other snippets of code made just for fun.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px; margin-top: 50px;">
