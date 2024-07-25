@@ -4,8 +4,8 @@
 <p align="center">I am a full stack developer passionate about writing lines of code that help solve problems. I am always seeking more technical knowledge in the tech field, enhancing my skills with projects and other code snippets made just for fun.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px; margin-top: 50px;">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dev-vinixx&theme=dark&mode=weekly" />
-<img width=30% aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-vinixx&layout=compact"
+<img width="55%" height="120px" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dev-vinixx&theme=dark&mode=weekly" />
+<img width="30%" height="120px" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-vinixx&layout=compact"
 </div>
  
  &nbsp;
